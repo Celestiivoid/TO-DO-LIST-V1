@@ -41,7 +41,7 @@ public class TODOLIST {
                             break;
                         }
                         else {
-                            System.out.println("Invalid input! Try again!");
+                            System.out.println("Invalid input!");
                             continue;
                         }
                     }
